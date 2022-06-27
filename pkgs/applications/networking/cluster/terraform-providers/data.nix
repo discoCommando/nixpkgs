@@ -78,7 +78,7 @@
       repo    = "terraform-provider-aws";
       rev     = "v3.6.0";
       version = "3.6.0";
-      sha256  = "0cfj87zdqgvyi0v2qlcd21p5byksnaq2wl4qx5kwkpnl6dvz3jix";
+      sha256  = "sha256-mrttdPlplPqwYBOX/n4wiXHHY/0VWQR/64cDcjhVmWk=";
     };
   azuread =
     {
